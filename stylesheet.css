@@ -1,0 +1,35 @@
+body{
+	background-color:yellow;
+}
+hr{
+	border-style: dotted;
+	color:#6600cc;
+}
+#sidelist {
+	
+    float: left;
+    width: 200px;
+    
+}
+#para {
+
+    margin-left:310px;    
+}
+p{
+	color:#6600cc;
+}
+h1{
+	color:#6600cc;
+}
+ul li{
+	padding:4px;
+	background-color:#ffffff;
+	color:#6600cc;
+	margin:10px;
+	border-right:10px solid black;
+	
+}
+ul{
+	background-color:yellow;
+	list-style-type:none;
+}
